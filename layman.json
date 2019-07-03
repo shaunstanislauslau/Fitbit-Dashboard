@@ -1,0 +1,64 @@
+{
+	"date": "Wed, 03 Jul 2019 07:41:09 GMT",
+	"content-type": "application/json;charset=UTF-8",
+	"transfer-encoding": "chunked",
+	"connection": "close",
+	"vary": "Origin,Accept-Encoding",
+	"cache-control": "no-cache, private",
+	"content-language": "en",
+	"fitbit-rate-limit-limit": "150",
+	"fitbit-rate-limit-remaining": "135",
+	"fitbit-rate-limit-reset": "1131",
+	"x-frame-options": "SAMEORIGIN, SAMEORIGIN",
+	"expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+	"server": "cloudflare",
+	"cf-ray": "4f073722bf33cc10-SIN"
+}
+BODY: {
+	"best": {
+		"total": {
+			"distance": {
+				"date": "2019-05-25",
+				"value": 9.7918
+			},
+			"floors": {
+				"date": "2019-05-24",
+				"value": 13.00000001976
+			},
+			"steps": {
+				"date": "2019-05-25",
+				"value": 12362
+			}
+		},
+		"tracker": {
+			"distance": {
+				"date": "2019-05-25",
+				"value": 9.7918
+			},
+			"floors": {
+				"date": "2019-05-24",
+				"value": 13.00000001976
+			},
+			"steps": {
+				"date": "2019-05-25",
+				"value": 12362
+			}
+		}
+	},
+	"lifetime": {
+		"total": {
+			"activeScore": -1,
+			"caloriesOut": -1,
+			"distance": 412.71,
+			"floors": 388,
+			"steps": 582425
+		},
+		"tracker": {
+			"activeScore": -1,
+			"caloriesOut": -1,
+			"distance": 413.34,
+			"floors": 388,
+			"steps": 583315
+		}
+	}
+}
